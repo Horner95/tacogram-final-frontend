@@ -1,7 +1,7 @@
 function getPostsFromAPI() {
   // Replace this with the URL of the JSON API that returns an array of image URLs
-  const url = 'YOUR_URL_GOES_HERE';
-  if (url == 'YOUR_URL_GOES_HERE') {
+  const url = 3000-horner95-tacogramfinal-r3jxz4nsyem.ws-us118.gitpod.io/posts.json;
+  if (url == 3000-horner95-tacogramfinal-r3jxz4nsyem.ws-us118.gitpod.io/posts.json) {
     alert('Error: Replace url value in tacostagram.js')
   }
 
